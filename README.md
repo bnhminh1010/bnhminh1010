@@ -43,8 +43,17 @@
 
 ### 🧰 Stack
 
+| Layer | Technologies |
+|---|---|
+| **Backend** | C# (.NET), Node.js, TypeScript, PostgreSQL, Redis, Neo4j |
+| **Cloud & IaC** | AWS, Terraform, Docker, Podman, Kubernetes |
+| **CI/CD & Git** | Git, GitHub Actions, GitLab CI |
+| **Observability** | Prometheus, Grafana |
+| **OS & Scripting** | Linux, Bash, Nginx |
+| **Config Mgmt** | Ansible |
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,postgres,redis,neo4j,docker,podman,aws,linux,bash,git,githubactions,nginx,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,postgres,redis,neo4j,aws,terraform,docker,podman,kubernetes,git,githubactions,gitlab,prometheus,grafana,linux,bash,nginx,ansible,python" />
 </p>
 
 ---
