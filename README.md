@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+DevOps+Developer;Node.js+%7C+.NET+%7C+TypeScript;Linux+%7C+Docker+%7C+Self-hosting;Building+reliable+systems&font=Fira+Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&pause=1000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+DevOps+Developer;Node.js+%7C+.NET+%7C+TypeScript;Docker+%7C+Kubernetes+%7C+AWS;Building+reliable+systems&font=Fira+Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
 
@@ -43,30 +43,49 @@
 
 ### 🧰 Stack
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | C# (.NET), Node.js, TypeScript, PostgreSQL, Redis, Neo4j |
-| **Cloud & IaC** | AWS, Terraform, Docker, Podman, Kubernetes |
-| **CI/CD & Git** | Git, GitHub Actions, GitLab CI |
-| **Observability** | Prometheus, Grafana |
-| **OS & Scripting** | Linux, Bash, Nginx |
-| **Config Mgmt** | Ansible |
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,postgres,redis,neo4j,aws,terraform,docker,podman,kubernetes,git,githubactions,gitlab,prometheus,grafana,linux,bash,nginx,ansible,python" />
-</p>
+**Cloud & IaC**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**CI/CD & GitOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**OS & Scripting**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ### 📈 GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bnhminh1010&show_icons=true&theme=transparent&hide_border=true&text_color=9f9f9f&icon_color=0e75b6&title_color=0e75b6" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnhminh1010&layout=compact&theme=transparent&hide_border=true&text_color=9f9f9f&title_color=0e75b6" />
+  <img height="160em" src="https://gh-stats.com/api?username=bnhminh1010&show_icons=true&hide_border=true" />
+  <img height="160em" src="https://gh-stats.com/api/top-langs?username=bnhminh1010&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bnhminh1010&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  <img src="https://gh-stats.com/api/streak?username=bnhminh1010&hide_border=true" />
 </p>
 
 <p align="center">
