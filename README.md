@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
+<h1 align="center">Hi, I'm Minh Nguyen</h1>
 <h3 align="center">A senior student backend & devops developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnhminh1010&label=Profile%20views&color=0e75b6&style=flat" alt="bnhminh1010" /> </p>
