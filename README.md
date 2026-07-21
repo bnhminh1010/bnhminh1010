@@ -44,7 +44,7 @@
 ### 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,nextjs,postgres,redis,neo4j,docker,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,postgres,redis,neo4j,docker,podman,aws,linux,bash,git,githubactions,nginx,grafana,prometheus" />
 </p>
 
 ---
